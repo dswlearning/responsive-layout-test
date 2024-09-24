@@ -851,6 +851,67 @@ body, #container-wrap { background:#ededed; }
 	top:2245px !important;
 }
 
+#item43965 {
+	width:230px !important;
+	height:262px !important;
+	left:170px !important;
+	top:2972px !important;
+}
+
+#item43987 {
+	width:296px !important;
+	left:459px !important;
+	top:2980px !important;
+	min-height:254px !important;
+}
+
+#item44010 {
+	width:296px !important;
+	left:1454px !important;
+	top:3051px !important;
+	min-height:16px !important;
+}
+
+p.autoParaStyle9 {
+	font-family:Arial,sans-serif;
+	font-size:22px;
+	line-height:26.4px;
+	color:#000;
+	hyphens:auto;
+	-moz-hyphens:auto;
+	-ms-hyphens:auto;
+	-webkit-hyphens:auto;
+	hyphenate-after:2;
+	-ms-hyphenate-after:2;
+	-moz-hyphenate-after:2;
+	-webkit-hyphenate-after:2;
+	hyphenate-before:2;
+	-ms-hyphenate-before:2;
+	-moz-hyphenate-before:2;
+	-webkit-hyphenate-before:2;
+	text-align:right;
+}
+
+p.autoParaStyle8 {
+	font-family:Arial,sans-serif;
+	font-size:22px;
+	line-height:26.4px;
+	color:#000;
+	hyphens:auto;
+	-moz-hyphens:auto;
+	-ms-hyphens:auto;
+	-webkit-hyphens:auto;
+	hyphenate-after:2;
+	-ms-hyphenate-after:2;
+	-moz-hyphenate-after:2;
+	-webkit-hyphenate-after:2;
+	hyphenate-before:2;
+	-ms-hyphenate-before:2;
+	-moz-hyphenate-before:2;
+	-webkit-hyphenate-before:2;
+	text-align:left;
+}
+
 p.autoParaStyle7 {
 	font-family:Arial,sans-serif;
 	font-size:22px;
